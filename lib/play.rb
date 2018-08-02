@@ -39,8 +39,8 @@ end
 def play(board)
   turn = 0 
   while turn < 9
-	puts "Wingardium Leviosa"
-	levitation_force += 1
+	puts "Please enter 1-9"
+	turn += 1
 	end
 end
   
