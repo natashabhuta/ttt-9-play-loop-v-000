@@ -37,4 +37,10 @@ end
 
 # Define your play method below
 def play(board)
+  turn = 0 
+  while turn < 9
+	puts "Wingardium Leviosa"
+	levitation_force += 1
+	end
+end
   
